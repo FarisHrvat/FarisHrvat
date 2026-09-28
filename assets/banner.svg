@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Faris Hrvat">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Faris Hrvat, data scientist and computational biologist">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0B1F1D"/>
@@ -26,15 +26,15 @@
   <rect width="1280" height="320" rx="20" fill="url(#glow)"/>
 
   <g transform="translate(72 0)">
-    <g transform="translate(0 84)" fill="#6FD3C3">
+    <g transform="translate(0 46)" fill="#6FD3C3">
       <rect x="0" y="14" width="7" height="18" rx="1.5"/>
       <rect x="11" y="7" width="7" height="25" rx="1.5"/>
       <rect x="22" y="0" width="7" height="32" rx="1.5"/>
     </g>
-    <text x="0" y="176" class="t" font-size="62" font-weight="700" fill="#F2FBF9" letter-spacing="-1">Faris Hrvat</text>
-    <text x="2" y="218" class="t" font-size="22" fill="#CFE9E4">Spatial metabolomics, imaging mass cytometry,</text>
-    <text x="2" y="248" class="t" font-size="22" fill="#CFE9E4">and software for people at the bench.</text>
-    <text x="2" y="286" class="m" font-size="14" fill="#6FD3C3" fill-opacity="0.85">python  ·  r  ·  typescript  ·  rust</text>
+    <text x="-2" y="136" class="t" font-size="62" font-weight="700" fill="#F2FBF9" letter-spacing="-1">Faris Hrvat</text>
+    <text x="0" y="174" class="t" font-size="22" fill="#CFE9E4">Data scientist and computational biologist</text>
+    <rect x="0" y="194" width="195" height="30" rx="15" fill="#6FD3C3" fill-opacity="0.12" stroke="#6FD3C3" stroke-opacity="0.45"/><text x="98" y="214" text-anchor="middle" class="t" font-size="14" font-weight="500" fill="#DDF3EF">Imaging mass cytometry</text><rect x="205" y="194" width="175" height="30" rx="15" fill="#6FD3C3" fill-opacity="0.12" stroke="#6FD3C3" stroke-opacity="0.45"/><text x="292" y="214" text-anchor="middle" class="t" font-size="14" font-weight="500" fill="#DDF3EF">Spatial metabolomics</text><rect x="390" y="194" width="183" height="30" rx="15" fill="#6FD3C3" fill-opacity="0.12" stroke="#6FD3C3" stroke-opacity="0.45"/><text x="482" y="214" text-anchor="middle" class="t" font-size="14" font-weight="500" fill="#DDF3EF">Spatial transcriptomics</text>
+    <rect x="0" y="234" width="100" height="30" rx="15" fill="#6FD3C3" fill-opacity="0.12" stroke="#6FD3C3" stroke-opacity="0.45"/><text x="50" y="254" text-anchor="middle" class="t" font-size="14" font-weight="500" fill="#DDF3EF">Single-cell</text><rect x="110" y="234" width="125" height="30" rx="15" fill="#6FD3C3" fill-opacity="0.12" stroke="#6FD3C3" stroke-opacity="0.45"/><text x="172" y="254" text-anchor="middle" class="t" font-size="14" font-weight="500" fill="#DDF3EF">Bulk RNA-seq</text><rect x="245" y="234" width="146" height="30" rx="15" fill="#6FD3C3" fill-opacity="0.12" stroke="#6FD3C3" stroke-opacity="0.45"/><text x="318" y="254" text-anchor="middle" class="t" font-size="14" font-weight="500" fill="#DDF3EF">Machine learning</text><rect x="401" y="234" width="125" height="30" rx="15" fill="#6FD3C3" fill-opacity="0.12" stroke="#6FD3C3" stroke-opacity="0.45"/><text x="464" y="254" text-anchor="middle" class="t" font-size="14" font-weight="500" fill="#DDF3EF">Deep learning</text>
   </g>
 
   <g>

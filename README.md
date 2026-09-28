@@ -1,9 +1,15 @@
-<img src="assets/banner.svg" width="100%" alt="Faris Hrvat. Spatial metabolomics, imaging mass cytometry, and software for people at the bench.">
+<img src="assets/banner.svg" width="100%" alt="Faris Hrvat, data scientist and computational biologist">
 
 <br>
 
-I work with spatial metabolomics and imaging mass cytometry data, mostly in
-Python and R. Most of that is still in private repos. What's public is below.
+I'm a data scientist and computational biologist. Most of my work is spatial
+data: imaging mass cytometry, spatial metabolomics and spatial transcriptomics.
+I also work with single-cell and bulk RNA-seq, and I build machine learning and
+neural network models. I know the deep learning side well.
+
+Now and then I write software that makes analysis easier for people at the
+bench. AssayPlot is one of those, and it's public. Most of the research code
+isn't yet.
 
 ## AssayPlot
 
@@ -37,4 +43,11 @@ It runs offline on macOS, Windows and Linux. You don't need an account.
 
 ## What I use
 
-<img src="https://skillicons.dev/icons?i=python,r,ts,react,rust,tauri,vite&theme=dark" alt="Python, R, TypeScript, React, Rust, Tauri, Vite">
+**Mostly**<br>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">
+
+**When a project needs them**<br>
+<img src="https://skillicons.dev/icons?i=r,ts&theme=dark" alt="R, TypeScript">
+
+**Enough to get by**<br>
+<img src="https://skillicons.dev/icons?i=js,html,css,rust&theme=dark" alt="JavaScript, HTML, CSS, Rust">
